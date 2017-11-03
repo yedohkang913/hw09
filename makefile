@@ -6,3 +6,4 @@ run: all
 
 clean: 
 	rm run
+	rm a.out
